@@ -4,8 +4,10 @@
 
 
 Endereço: XXXXXx - Marilia - SP
+
 CEP: XXXXX-XXX
-Bairro: XXXXX  N°XXX
+
+Bairro: XXXXX - N°XXX
 
 ---
 
