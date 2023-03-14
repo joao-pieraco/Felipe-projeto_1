@@ -12,7 +12,8 @@ Bairro: XXXXX - N°XXX
 ---
 
 
-Experiencia:
+Experiencia;
 
 Aluno Unimar
+
 Aluno do Ettore
