@@ -4,6 +4,8 @@
 
 
 Endereço: XXXXXx - Marilia - SP
+CEP: XXXXX-XXX
+Bairro: XXXXX  N°XXX
 
 ---
 
@@ -11,3 +13,4 @@ Endereço: XXXXXx - Marilia - SP
 Experiencia:
 
 Aluno Unimar
+Aluno do Ettore
